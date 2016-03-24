@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 480px) {
+    img.logo {
+        height: 100%;
+		width: 100%;
+    }
+}
+
+.fancy{
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.title{
+  padding: 30px 15px;
+  background-color: inherit;
+  border-radius: 2px;
+}
+
+.img-thumbnail{
+	height: inherit;
+}
